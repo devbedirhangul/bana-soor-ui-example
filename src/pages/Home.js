@@ -106,7 +106,7 @@ export default class Home extends Component {
               <Image style={footerImage} source={require("../assets/images/kisisel-gelisim.jpg")}/>
               <View>
                 <Text style={{ fontWeight: "bold", fontSize: 15 }}>UZMAN OLUN</Text>
-                <Text>Uzman falan olun işte takılın falan böyle</Text>
+                <Text>Tecrübeli uzmanlar ve düşünce liderleri topluluğuna katılın !</Text>
               </View>
             </View>
           </View>
